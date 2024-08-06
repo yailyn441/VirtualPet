@@ -1,4 +1,4 @@
-![](Penguin.JPG)   
+![](chick.JPG)   
 Virtual Pet
 =============
 
