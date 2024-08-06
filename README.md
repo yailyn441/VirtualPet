@@ -21,3 +21,6 @@ Note: The following Processing functions do not work on the web:
 + Using `CHORD` or `PIE` modes with `arc()`
 + Using an image as an argument in `background()`
 + Arduino code
+
+Sample Virtual Pet Pages: 
+[Ms.Padilla](https://mspadilla.github.io/virtualpet/)
