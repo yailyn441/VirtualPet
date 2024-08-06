@@ -1,4 +1,5 @@
-![](chick.JPG)   
+![chick](https://github.com/user-attachments/assets/cd57996c-7b2d-4028-a180-4a5b46947c86)
+
 Virtual Pet
 =============
 
