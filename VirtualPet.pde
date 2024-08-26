@@ -1,6 +1,7 @@
 
 void setup(){
 size(1000,1000); // to make canvas larger change size width and length
+}
   //some of your code here
 public void draw() {
     background(93, 115, 105);
@@ -80,8 +81,5 @@ public void draw() {
 
     fill(0); //mouse coordinate finder
     text("("+mouseX+","+mouseY+")", mouseX, mouseY);
-}
-void draw(){
-  //more of your code here
 }
 
