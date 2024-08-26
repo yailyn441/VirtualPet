@@ -1,6 +1,6 @@
 
 void setup(){
-size(1000,500); // to make canvas larger change size width and length
+size(700,700); // to make canvas larger change size width and length
 }
   //some of your code here
 public void draw() {
